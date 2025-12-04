@@ -55,7 +55,6 @@ Unduh installer terbaru langsung dari [Release Page](https://github.com/debotz-b
 ```bash
 git clone https://github.com/debotz-bot/DEGamesLauncher.git
 ```
----
 
 ```bash
 cd DEGamesLauncher
@@ -110,7 +109,7 @@ python main.py
 
 ## 📸 Screenshots
 
-[Letakkan screenshot aplikasi Anda di sini untuk memberikan preview visual]
+[![Tampilan](image.png)]
 
 ---
 
