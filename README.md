@@ -27,8 +27,6 @@
 ## 🚀 Fitur Utama
 
 - ✅ **UI Modern & Futuristik** - Desain neon yang eye-catching dengan efek visual premium
-- ✅ **Manajemen Game Lokal** - Tambah, hapus, dan organisir game dengan mudah
-- ✅ **Sistem Login Admin** - Keamanan dengan sistem autentikasi admin
 - ✅ **Integrasi Steam** - Sinkronkan game dari Steam ke library lokal
 - ✅ **Sistem Update Otomatis** - Update via GitHub tanpa repot
 - ✅ **Performa Ringan** - Minimal resource usage, maksimal performance
