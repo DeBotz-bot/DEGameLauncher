@@ -111,6 +111,7 @@ python main.py
 
 [![Tampilan](https://github.com/DeBotz-bot/DEGameLauncher/blob/master/Screenshot%202025-12-04%20133420.png?raw=true)]
 
+-DEGamesLauncher
 ---
 
 ## 🤝 Kontribusi
