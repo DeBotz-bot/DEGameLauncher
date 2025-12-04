@@ -52,20 +52,20 @@ Unduh installer terbaru langsung dari [Release Page](https://github.com/debotz-b
 ### Option 2: Dari Source Code
 
 **1. Clone Repository**
-\`\`\`bash
+```bash
 git clone https://github.com/debotz-bot/DEGamesLauncher.git
 cd DEGamesLauncher
-\`\`\`
+```
 
 **2. Install Dependencies**
-\`\`\`bash
+```bash
 pip install PyQt5 pillow
-\`\`\`
+```
 
 **3. Jalankan Aplikasi**
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
 ---
 
