@@ -1,0 +1,163 @@
+/* ================== GLOBAL ================== */
+* {
+    font-family: "Segoe UI";
+    font-size: 10pt;
+}
+
+/* ================== ROOT APP ================== */
+QMainWindow {
+    background-color: #0e426dff;
+}
+
+QStackedWidget {
+    background-color: #0e426dff;
+}
+
+/* ================== HOME BACKGROUND LOCK ================== */
+QScrollArea {
+    background-color: #0e426dff;
+    border: none;
+}
+
+QScrollArea > QWidget > QWidget {
+    background-color: #0e426dff;
+}
+
+/* ================== ADMIN / LOGIN ================== */
+QWidget#loginPage {
+    background-color: #0e426dff;
+}
+
+/* ================== GLOBAL BACKGROUND ================== */
+
+
+
+
+
+/* ================== INPUT ================== */
+QLineEdit, QTextEdit {
+    background: #1a1a2e;
+    border: 1px solid #2c2c3c;
+    border-radius: 8px;
+    padding: 8px;
+    color: #ffffff;
+}
+
+QLineEdit:focus, QTextEdit:focus {
+    border: 1px solid #bb86fc;
+}
+
+/* ================== BUTTON ================== */
+QPushButton {
+    background: #1f1f2f;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 8px 12px;
+    border: 1px solid #2c2c3c;
+}
+
+QPushButton:hover {
+    background: #2a2a40;
+    border: 1px solid #bb86fc;
+}
+
+QPushButton:pressed {
+    background: #3700b3;
+}
+
+QPushButton#primary {
+    background: qlineargradient(x1:0,y1:0,x2:1,y2:1,
+        stop:0 #bb86fc, stop:1 #7b3fe4);
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+
+QPushButton#primary:hover {
+    background: qlineargradient(x1:0,y1:0,x2:1,y2:1,
+        stop:0 #d0a7ff, stop:1 #9b6bff);
+}
+
+/* ================== SCROLLBAR ================== */
+QScrollBar:vertical {
+    background: #0e426dff;
+    width: 8px;
+}
+
+QScrollBar::handle:vertical {
+    background: #bb86fc;
+    border-radius: 4px;
+}
+
+QScrollBar::add-line,
+QScrollBar::sub-line {
+    background: none;
+}
+
+/* ================== GAME CARD ================== */
+QFrame#gameCard {
+    background: #ffffff;
+    border-radius: 16px;
+    border: none;
+}
+
+/* ================== LABEL ================== */
+QLabel {
+    background: transparent;
+    border: none;
+    padding: 0px;
+    color: #e0e0ff;
+}
+/* ================== ADMIN GAME TABLE ================== */
+QTableWidget#adminGameTable {
+    background-color: #0f172a;   /* biru gelap netral */
+    color: #e5e7eb;
+    border-radius: 12px;
+    border: 1px solid #1e293b;
+    alternate-background-color: #020617; /* baris belang */
+}
+
+QTableWidget#adminGameTable::item {
+    padding: 8px;
+    border: none;
+}
+
+QTableWidget#adminGameTable::item:selected {
+    background-color: #1d4ed8;  /* biru solid seleksi */
+    color: #ffffff;
+}
+
+QTableWidget#adminGameTable::item:hover {
+    background-color: #1e293b;
+}
+
+/* ================== HEADER TABEL ================== */
+QHeaderView::section {
+    background-color: #020617;
+    color: #60a5fa;
+    padding: 8px;
+    border: none;
+    font-weight: bold;
+}
+
+/* ================== SCROLLBAR KHUSUS TABEL ================== */
+QTableWidget#adminGameTable QScrollBar:vertical {
+    background: #020617;
+    width: 8px;
+}
+
+QTableWidget#adminGameTable QScrollBar::handle:vertical {
+    background: #2563eb;
+    border-radius: 4px;
+}
+
+/* ================== PREMIUM TOOLTIP ================== */
+QToolTip {
+    background-color: #020617;
+    color: #272727ff;
+    border: 1px solid #3b82f6;
+    border-radius: 12px;
+    padding: 10px 14px;
+    font-size: 11pt;
+    max-width: 300px;
+}

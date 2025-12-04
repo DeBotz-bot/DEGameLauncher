@@ -1,0 +1,38 @@
+[
+  {
+    "name": "GTA V",
+    "folder": "D:\\DeGameLauncher\\data\\games\\GTA V",
+    "thumbnail": "D:\\DeGameLauncher\\data\\games\\GTA V\\thumbnail.jpeg",
+    "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second."
+  },
+  {
+    "name": "Ready or Not",
+    "folder": "D:\\DeGameLauncher\\data\\games\\Ready or Not",
+    "thumbnail": "D:\\DeGameLauncher\\data\\games\\Ready Or Not\\thumbnail.jpg",
+    "description": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations."
+  },
+  {
+    "name": "VTOL VR",
+    "folder": "D:\\DeGameLauncher\\data\\games\\VTOL VR",
+    "thumbnail": "D:\\DeGameLauncher\\data\\games\\VTOL VR\\thumbnail.jpg",
+    "description": "VTOL VR is a near-futuristic combat flight game built for Virtual Reality. Pilot advanced multi-role jets, using your hands to flip switches, press buttons, and manipulate the virtual flight controls."
+  },
+  {
+    "name": "Far Cry Primal",
+    "folder": "D:\\DeGameLauncher\\data\\games\\Far Cry Primal",
+    "thumbnail": "D:\\DeGameLauncher\\data\\games\\Far Cry Primal\\thumbnail.png",
+    "description": "The award-winning Far Cry franchise returns with its innovative open world gameplay, bringing together massive beasts, breathtaking environments, and unpredictable savage encounters. Welcome to the Stone Age, a time of danger and adventure."
+  },
+  {
+    "name": "Far Cry New Dawn",
+    "folder": "D:\\DeGameLauncher\\data\\games\\Far Cry New Dawn",
+    "thumbnail": "D:\\DeGameLauncher\\data\\games\\Far Cry New Dawn\\thumbnail.png",
+    "description": "Dive into a transformed vibrant post-apocalyptic Hope County, Montana, 17 years after a global nuclear catastrophe. Lead the fight against the Highwaymen, as they seek to take over the last remaining resources."
+  },
+  {
+    "name": "NBA 2K26",
+    "folder": "D:\\DeGameLauncher\\data\\games\\NBA 2K26",
+    "thumbnail": "D:\\DeGameLauncher\\data\\games\\NBA 2K26\\thumbnail.jpg",
+    "description": "Bragging rights are on the line in MyCAREER, MyTEAM, MyNBA, The W, and Play Now. Showcase your bag of moves with hyper realism, Powered by ProPLAY\u2122, and challenge your friends, or rivals, in NBA 2K26\u2019s competitive modes\u2014and leave no doubt that you wear the crown."
+  }
+]
